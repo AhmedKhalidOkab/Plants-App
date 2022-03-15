@@ -1,16 +1,6 @@
 # planet_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ this app to planet online shop  
+ ![WhatsApp Image 2022-03-15 at 9 43 32 PM (1)](https://user-images.githubusercontent.com/99565734/158460392-76b8afbb-5213-4abf-adcf-08d89739350f.jpeg)
+![WhatsApp Image 2022-03-15 at 9 43 32 PM](https://user-images.githubusercontent.com/99565734/158460407-bfd71e1b-a981-4664-b950-bf444fc81ef7.jpeg)
+![WhatsApp Image 2022-03-15 at 9 43 30 PM (1)](https://user-images.githubusercontent.com/99565734/158460413-473f919e-77d3-4345-a2bf-58023c572a14.jpeg)
